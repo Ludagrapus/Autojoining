@@ -1,0 +1,2 @@
+# Autojoining
+for WoW
